@@ -6,7 +6,7 @@ const App = () => {
         <div className="flex flex-col md:flex-row">
           <div className="md:w-1/3 text-center mb-8 md:mb-0">
             <img
-              src="https://i.pravatar.cc/300"
+              src="/emhara-sanie.jpg"
               alt="Profile Picture"
               className="rounded-full w-48 h-48 mx-auto mb-4 border-4 border-indigo-800 dark:border-blue-900 transition-transform duration-300 hover:scale-105"
             />
