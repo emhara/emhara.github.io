@@ -76,7 +76,7 @@ const App = () => {
                     clipRule="evenodd"
                   />
                 </svg>
-                Central Java, Indonesia
+                Metaverse
               </li>
             </ul>
           </div>
